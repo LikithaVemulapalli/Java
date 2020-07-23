@@ -1,1 +1,1 @@
-This project consists of few web applications using Spring MVC in Java.
+This Repository contains  few web applications using Spring MVC in Java.

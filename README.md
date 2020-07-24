@@ -1,1 +1,1 @@
-This Repository contains  few web applications using Spring MVC in Java.
+This Repository contains few front end and back end web applications using Spring MVC in Java.
